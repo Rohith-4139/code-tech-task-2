@@ -56,3 +56,5 @@ Optional Libraries:
 matplotlib or seaborn for graphs.
 pandas for handling grade data efficiently.
 Example Workflow:
+![image](https://github.com/user-attachments/assets/e9cc721e-3505-40e2-9305-308fadf88e92)
+
